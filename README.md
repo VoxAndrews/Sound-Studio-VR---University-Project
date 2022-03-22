@@ -9,4 +9,5 @@ Controls:
 There are no button controls. Simply move the sticks around with your hands and strike the playable parts of the instruments to hear a tone play.
 
 -------- NOTE --------
+
 Originally there was going to be a Particle effect when striking the instruments but it has been disabled. It is still wtihin the Project Files in the Prefabs section if you wish to view it.
